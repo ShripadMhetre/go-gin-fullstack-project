@@ -1,6 +1,6 @@
 ## Golang Backend Demo Project
 
-Backend REST project built using Golang, Gin Web Framework, MongoDB, JWT Authentication.
+Backend REST project built using Golang, Gin Web Framework, MongoDB, JWT Authentication. _(Project in progress...)_
 
 ### Functionalities :-
 
